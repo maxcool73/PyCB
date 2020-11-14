@@ -18,7 +18,7 @@ a = 5
 b = 8
 a, b = b, a
 
-z = tuple([5, 8])
+z = ([5, 8])
 
 
 def foo(z):
